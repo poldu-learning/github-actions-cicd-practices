@@ -4,14 +4,8 @@
 name: Python application
 
 on:
-  push:
-    branches: [ "main" ]
-    paths:
-      - '02_04_challenge_container_workflow/**'
-  pull_request:
-    branches: [ "main" ]
-    paths:
-      - '02_04_challenge_container_workflow/**'
+  workflow_call:
+    
 
 permissions:
   contents: read
