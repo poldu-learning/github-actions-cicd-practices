@@ -10,10 +10,13 @@ on:
     - cron: '35 1 * * *'
   push:
     branches: [ "main" ]
-    # Publish semver tags as releases.
-    tags: [ 'v*.*.*' ]
+    paths:
+      - '02_04_challenge_container_workflow/**'
   pull_request:
     branches: [ "main" ]
+    paths:
+      - '02_04_challenge_container_workflow/**'
+
 
 env:
   # Use docker.io for Docker Hub if empty
