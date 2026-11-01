@@ -17,7 +17,7 @@ To complete this challenge, you will:
 - Configure job permissions and job dependencies
 - Run the workflow and verify that a container image is published
 
-This challenge should take 15 to 20 minutes to complete
+This challenge should take 15 to 20 minutes to complete.
 
 
 <!-- FooterStart -->
