@@ -19,6 +19,7 @@ To complete this challenge, you will:
 
 This challenge should take 15 to 20 minutes to complete.
 
+C
 <!-- FooterStart -->
 ---
 [← 02_03 Build and Publish a Container Image](../02_03_build_publish_a_container_image/README.md) | [02_05 Solution: Develop a Container Image Workflow →](../02_05_solution_container_workflow/README.md)
