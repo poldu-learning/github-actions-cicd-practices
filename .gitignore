@@ -37,4 +37,7 @@ go.work.sum
 # .idea/
 # .vscode/
 
-
+# Python virtual environments
+.venv/
+venv/
+env/
